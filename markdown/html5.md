@@ -1144,7 +1144,7 @@ Upload: <form action="upload_file.php" method="post" enctype="multipart/form-dat
 
 # Hidden Input
 
-Inputs with type <a href"https://html.spec.whatwg.org/multipage/input.html#hidden-state-(type=hidden)">hidden</a> are not shown and are not meant to be changed by the user.
+Inputs with type <a href="https://html.spec.whatwg.org/multipage/input.html#hidden-state-(type=hidden)">hidden</a> are not shown and are not meant to be changed by the user.
 
 ```html
 <input type="hidden" name="username" value="mightymouse">
