@@ -201,7 +201,7 @@ The **id** and **class** attributes are used to easily identify a tag for manipu
 An HTML document **cannot** have two elements with the same **id**:
 
 ```html
-<img id="logo" src="logo.png>
+<img id="logo" src="logo.png">
 ```
 
 An HTML element can have more than one **class** (separated by whitespace).
