@@ -139,7 +139,7 @@ The content of a tag is everything between the opening and closing tags:
 <p>Some content</p>
 ```
 
-It can be text, but is can also be other tags:
+It can be text, but it can also be other tags:
 
 ```html
 <article>
