@@ -895,8 +895,8 @@ They are very useful to set the *class* of each column without having to do it i
 
 ---
 
-template:inverse
-name:forms
+template: inverse
+name: forms
 # Forms
 
 ---
